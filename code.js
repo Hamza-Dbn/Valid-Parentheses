@@ -3,5 +3,6 @@
  * @return {boolean}
  */
 var isValid = function(s) {
+    const result = [];
     
 };
