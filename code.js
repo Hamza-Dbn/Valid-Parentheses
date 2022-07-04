@@ -3,6 +3,9 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    const result = [];
+    const thestack = [];
+    for (let e = 0; e < s.length; e++) {
+        
+    }
     
 };
